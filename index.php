@@ -21,4 +21,3 @@ $person2 = new Person('Ramon', 'Lopez');
 
 
 echo "{$person1->fullName()} es amigo de {$person2->fullName()}";
-xccvvvvvvccccsee
