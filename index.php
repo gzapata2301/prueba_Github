@@ -17,7 +17,8 @@ public $lastName;
 
 $person1 = new Person('Dulio', 'Palacios');
 
-$person2 = new Person('Ramon', 'Lopez'); 
+$person2 = new Person('Ramon', 'Lopez');
 
 
 echo "{$person1->fullName()} es amigo de {$person2->fullName()}";
+xccvvvvvvccccsee
